@@ -240,6 +240,4 @@ Skills:
 - Pandas
 - NumPy
 
----
 
-If you found this project helpful, feel free to star ⭐ the repository.
