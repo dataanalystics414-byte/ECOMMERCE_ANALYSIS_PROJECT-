@@ -183,14 +183,13 @@ Monitor sales performance across:
 
 ### Main Dashboard
 
-Add your dashboard screenshots in the `images` folder and update the paths below:
+<img width="1423" height="797" alt="image" src="https://github.com/user-attachments/assets/091d8e78-194d-43ef-af3a-0ddb00be3f46" />
 
-```md
-![Dashboard Overview](images/dashboard_1.png)
 
-![Sales Analysis](images/dashboard_2.png)
 
-![Filtered Dashboard](images/dashboard_3.png)
+
+
+
 ```
 
 ---
